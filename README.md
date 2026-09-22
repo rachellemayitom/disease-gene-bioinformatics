@@ -23,3 +23,17 @@ The HFE gene was located using the UCSC Genome Browser with the human GRCh38/hg3
 ### Screenshot 1 – HFE Gene Location
 
 ![HFE gene location](images/01_gene_location.png)
+
+## 3. Exons, Introns, and Transcripts
+
+**Selected transcript:** NM_000410.4 (MANE Select Plus Clinical)
+
+- **Number of exons:** 6
+- **Multiple transcripts/isoforms visible:** Yes. Multiple transcript models are visible in the GENCODE and RefSeq tracks.
+- **Exons:** Exons are represented by the blue boxes in the gene model.
+- **Introns:** Introns are represented by the lines connecting the exon boxes.
+- **Relative length:** The introns generally appear longer than the exons in the displayed HFE gene model.
+
+### Screenshot 2 – HFE Gene Structure
+
+![HFE gene structure](images/02_gene_structure.png)
