@@ -84,3 +84,30 @@ Strong conservation suggests that a DNA sequence has been maintained across diff
 ### Screenshot 4 – ClinVar Variant Record
 
 ![ClinVar variant record](images/04_clinvar_variant.png)
+
+## 6. Locating and Interpreting the Variant in UCSC
+
+**Selected variant:** NM_000410.3(HFE):c.-48C>G
+
+**Genomic position:** chr6:26087393 (GRCh38)
+
+### Part F Questions
+
+**a. Where is the variant located relative to your gene?**  
+The variant is located upstream of the displayed HFE gene model, before the main HFE transcript structure shown in the UCSC browser.
+
+**b. Is it in an exon, intron, UTR, splice region, or another region?**  
+The variant does not appear to fall directly within an exon or intron in the current UCSC browser view. It is located in an upstream noncoding region. The exact UTR boundary is not clearly labeled in the current browser view.
+
+**c. Is it likely in a coding or non-coding region based on the displayed annotations?**  
+It is likely in a non-coding region because it is located upstream of the coding sequence and does not show a protein-coding change. The ClinVar record also describes the variant as non-coding for the relevant transcript annotation.
+
+**d. Based on its location and ClinVar information, briefly explain how the variant might affect the gene or gene product.**  
+Because the variant is in a non-coding region near the HFE gene, it could potentially affect gene regulation or the expression of the HFE transcript rather than directly changing the amino acid sequence of the HFE protein. However, ClinVar classifies this variant as **Benign**, so the available clinical evidence does not support it as a disease-causing variant.
+
+**e. What additional evidence would be needed before concluding that the variant causes disease?**  
+Additional evidence would include functional studies showing an effect on HFE gene expression or function, genetic studies showing that the variant co-segregates with disease, and sufficient clinical and population data supporting a disease-causing effect. These results would need to be consistent with the clinical classification and other available evidence.
+  
+### Screenshot 5 – Selected Variant in UCSC
+
+![Selected variant in UCSC](images/05_variant_in_ucsc.png)
