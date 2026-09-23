@@ -111,3 +111,36 @@ Additional evidence would include functional studies showing an effect on HFE ge
 ### Screenshot 5 – Selected Variant in UCSC
 
 ![Selected variant in UCSC](images/05_variant_in_ucsc.png)
+
+## 7. Interpretation
+
+The selected HFE variant, NM_000410.3(HFE):c.-48C>G, is located upstream of the displayed HFE gene model and does not appear to fall directly within an exon or intron in the current UCSC browser view. It is therefore considered a non-coding variant, and its location suggests that it could potentially affect gene regulation or expression rather than directly changing the HFE protein sequence. However, ClinVar classifies the variant as **Benign**, so its location alone does not provide evidence that it causes hereditary hemochromatosis. Additional functional and clinical evidence would be needed to determine any biological effect of the variant.
+
+## 8. Part G – Short Reflection
+
+### 1. What did UCSC show you about your gene that was not obvious from simply reading about the gene's function?
+
+UCSC showed the detailed structure of the HFE gene, including its exons, introns, transcripts, and locations of genetic variants. It also showed conservation and other genomic annotations around the gene.
+
+### 2. Why is knowing the exact genomic location of a disease-associated variant useful?
+
+Knowing the exact genomic location helps determine where the variant occurs relative to the gene structure. It also allows the variant to be compared with exons, introns, regulatory regions, and other genomic annotations.
+
+### 3. What is one limitation of predicting a variant's effect only from its genomic location?
+
+A variant's location alone cannot prove whether it changes gene function or causes disease. Functional and clinical evidence are needed to determine its actual effect.
+
+### 4. What was the most interesting feature you observed about your assigned gene?
+
+The most interesting feature was seeing the HFE variant directly within the UCSC Genome Browser and comparing its position with the HFE gene model. It was also interesting to see the different transcript models, ClinVar variants, and conservation information in the same genomic region.
+
+## 9. References and Links
+
+### UCSC Genome Browser
+
+- [HFE gene structure and variant region – UCSC Genome Browser](https://genome.ucsc.edu/cgi-bin/hgTracks?db=hg38\&lastVirtModeType=default\&lastVirtModeExtraState=\&virtModeType=default\&virtMode=0\&nonVirtPosition=\&position=chr6%3A26087350%2D26087450\&hgsid=4173147621_0kdTTM4ufJa5bgS8yaQnSVLJ6jsI)
+- [HFE gene location – UCSC Genome Browser](https://genome.ucsc.edu/cgi-bin/hgTracks?db=hg38\&lastVirtModeType=default\&lastVirtModeExtraState=\&virtModeType=default\&virtMode=0\&nonVirtPosition=\&position=chr6%3A26087429%2D26098343\&hgsid=4173147621_0kdTTM4ufJa5bgS8yaQnSVLJ6jsI)
+
+### NCBI ClinVar
+
+- [VCV000906711.6 – ClinVar – NCBI](https://www.ncbi.nlm.nih.gov/clinvar/variation/906711/)
