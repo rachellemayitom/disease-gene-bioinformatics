@@ -62,3 +62,25 @@ Strong conservation suggests that a DNA sequence has been maintained across diff
 ### Screenshot 3B – Conservation Track
 
 ![Conservation track](images/03B_conservation.png)
+
+## 5. ClinVar Variant Record
+
+**a. Gene:** HFE
+
+**b. Variant name/HGVS description:** NM_000410.3(HFE):c.-48C>G
+
+**c. rsID or ClinVar Variation ID/VCV accession:** rs41266793; Variation ID 906711; VCV000906711.6
+
+**d. Chromosome and genomic position:** Chromosome 6: 26087393 (GRCh38)
+
+**e. Associated condition/disease:** Hemochromatosis type 1
+
+**f. Clinical significance:** Benign
+
+**g. Review status:** Criteria provided, single submitter
+
+**h. ClinVar record URL:** https://www.ncbi.nlm.nih.gov/clinvar/variation/906711/
+
+### Screenshot 4 – ClinVar Variant Record
+
+![ClinVar variant record](images/04_clinvar_variant.png)
