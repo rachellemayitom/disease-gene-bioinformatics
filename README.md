@@ -37,3 +37,28 @@ The HFE gene was located using the UCSC Genome Browser with the human GRCh38/hg3
 ### Screenshot 2 – HFE Gene Structure
 
 ![HFE gene structure](images/02_gene_structure.png)
+
+## 4. Annotation and Conservation
+
+**a. Which gene annotation track did you use?**  
+I used the GENCODE V50 and RefSeq/MANE Select Plus Clinical annotation tracks to examine the HFE gene structure.
+
+**b. Were ClinVar-related variant marks visible within or near your gene?**  
+Yes. Multiple ClinVar-related variant marks were visible within the HFE gene region, including ClinVar Short Nucleotide Variants and ClinVar submitted interpretations.
+
+**c. Were some regions more conserved than others?**  
+Yes. The Cons 100 Verts track showed that some regions had stronger conservation signals than others.
+
+**d. Did conserved regions correspond mainly to exons, introns, both, or another region?**  
+The stronger conservation signals appeared mainly around exonic regions, although some conservation was also present in non-exonic regions.
+
+**e. Why can strong conservation suggest biological importance?**  
+Strong conservation suggests that a DNA sequence has been maintained across different species because it may have an important biological function. Changes in highly conserved regions may therefore have a greater potential to affect gene function.
+
+### Screenshot 3A – ClinVar Annotations
+
+![ClinVar annotations](images/03A_ClinVar_annotations.png)
+
+### Screenshot 3B – Conservation Track
+
+![Conservation track](images/03B_conservation.png)
