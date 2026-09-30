@@ -144,3 +144,10 @@ The most interesting feature was seeing the HFE variant directly within the UCSC
 ### NCBI ClinVar
 
 - [VCV000906711.6 – ClinVar – NCBI](https://www.ncbi.nlm.nih.gov/clinvar/variation/906711/)
+
+## UCSC Cell Browser Activity
+
+### 1. Assigned Gene and Disease
+
+- **Gene:** HFE
+- **Disease:** Hereditary hemochromatosis
