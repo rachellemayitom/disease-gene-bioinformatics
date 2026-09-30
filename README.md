@@ -246,3 +246,18 @@ The violin plot shows the distribution of HFE expression values in the selected 
 ### Part F Screenshot
 
 ![HFE expression comparison for Portal cells](UCSC_Cell_Browser_Screenshots/05_violin_plot.png)
+
+## 7. Marker Genes
+
+- **Cluster/cell type examined:** Portal
+- **Marker gene 1:** HAL
+- **Marker gene 2:** SDS
+- **Marker gene 3:** ENSG00000283003
+
+### Assigned Gene Compared with Marker Genes
+
+HFE does not appear among the displayed top marker genes for the Portal cluster. In this dataset, HFE therefore does not behave as a cell-type marker for the Portal cluster. This is consistent with the very low HFE expression observed in the cell map, where 97.7% of cells showed zero expression.
+
+### Part G Screenshot
+
+![Portal cluster marker genes](UCSC_Cell_Browser_Screenshots/06_marker_genes.png)
