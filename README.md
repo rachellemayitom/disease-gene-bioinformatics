@@ -275,3 +275,22 @@ HAL appears more broadly expressed than HFE in this dataset, with detectable exp
 
 **e. What does this comparison teach you about the difference between a disease-associated gene and a cell-type marker gene?**  
 A disease-associated gene does not necessarily function as a cell-type marker. In this dataset, HAL shows a clearer cell-type-associated expression pattern, whereas HFE is the disease-associated gene but has very low detectable expression across the measured cells.
+
+## 9. Connection to Genome Browser and ClinVar
+
+**1. Chromosome location:**  
+The HFE gene is located on chromosome 6, at 6p22.2.
+
+**2. Disease-associated variant examined previously:**  
+The previously examined disease-associated variant was HFE c.845G>A (p.Cys282Tyr), also known as the C282Y variant.
+
+**3. Cell types expressing the gene in the current Cell Browser dataset:**  
+HFE expression was very low and mostly undetected in the selected Healthy Human Liver Single Nuclear – All Liver Cells dataset. Approximately 97.7% of cells showed zero HFE expression, so no specific cell type could be confidently identified as a major HFE-expressing population from this dataset.
+
+**4. Does the observed cell expression make biological sense?**
+
+The liver was selected because it is relevant to HFE function and hereditary hemochromatosis, particularly in the regulation of systemic iron homeostasis. However, HFE expression was mostly undetected in this particular single-nucleus RNA-seq dataset. Therefore, the low observed expression should be interpreted as a characteristic of this dataset rather than evidence that HFE is absent from liver tissue. The Cell Browser result provides information about gene expression in the selected cells but does not by itself establish the complete biological function of HFE.
+
+**5. Can this single Cell Browser dataset prove that the gene causes the disease?**
+
+No. A single Cell Browser dataset can show where and how strongly a gene is expressed in the sampled cells, but it cannot establish that the gene causes a disease. Demonstrating disease causation requires additional evidence, such as genetic, functional, clinical, and experimental evidence.
