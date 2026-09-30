@@ -198,3 +198,19 @@ The clusters represent different liver cell types or cellular populations identi
 ### Part C Screenshot
 
 ![All Liver Cells cell map](UCSC_Cell_Browser_Screenshots/02_cell_map.png)
+
+## 4. Assigned Gene Expression
+
+- **Assigned Gene Symbol:** HFE
+- **Dataset:** Healthy Human Liver Single Nuclear – All Liver Cells
+- **Expression Pattern:** Very low / mostly undetected
+- **Cells with no detected HFE expression:** 97.7%
+- **Cells with expression level 1:** 2.1%
+- **Cells with expression level 2:** 0.2%
+- **Cells with expression levels 3–5:** Very small fractions
+
+HFE expression is very low and mostly undetected across the dataset. The expressing cells are sparse, and no single cell cluster shows a clearly strong concentration of HFE expression in the displayed map.
+
+### Part D Screenshot
+
+![HFE gene expression map](UCSC_Cell_Browser_Screenshots/03_gene_expression.png)
