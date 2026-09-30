@@ -151,3 +151,23 @@ The most interesting feature was seeing the HFE variant directly within the UCSC
 
 - **Gene:** HFE
 - **Disease:** Hereditary hemochromatosis
+
+## 2. Organ/Tissue and Dataset
+
+- **Organ/Tissue:** Liver
+- **Dataset Collection:** Healthy Human Liver Single Nuclear
+- **Selected Dataset:** All Liver Cells
+- **Number of Cells:** Approximately 196,000
+- **Dataset ID:** liver-sex-age-map
+- **Study:** Single-cell transcriptomics reveals the impact of sex and age in the healthy human liver
+- **NCBI GEO Series:** GSE210077
+- **Publication:** Speir et al. (2021)
+- **Dataset URL:** https://liver-sex-age-map.cells.ucsc.edu/
+
+### Why the Liver Was Selected
+
+The liver was selected because it is highly relevant to the HFE gene and hereditary hemochromatosis. HFE is involved in the regulation of iron homeostasis, and the liver plays an important role in systemic iron regulation and iron-related disease.
+
+### Part B Screenshot
+
+![Selected Healthy Human Liver Single Nuclear dataset](01_dataset.png)
