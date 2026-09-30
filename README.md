@@ -294,3 +294,35 @@ The liver was selected because it is relevant to HFE function and hereditary hem
 **5. Can this single Cell Browser dataset prove that the gene causes the disease?**
 
 No. A single Cell Browser dataset can show where and how strongly a gene is expressed in the sampled cells, but it cannot establish that the gene causes a disease. Demonstrating disease causation requires additional evidence, such as genetic, functional, clinical, and experimental evidence.
+
+## 10. Reflection
+
+### 1. What did the UCSC Cell Browser show you that the UCSC Genome Browser could not?
+
+The UCSC Cell Browser showed how HFE expression is distributed among individual cells and cell populations in human liver tissue. The UCSC Genome Browser mainly provided information about the gene's genomic location, structure, and sequence rather than cell-specific expression patterns.
+
+### 2. Why can the same gene have different expression levels among different cell types?
+
+Different cell types have different functions and therefore require different sets and amounts of gene products. As a result, the same gene can be highly expressed in some cell types and have low or undetected expression in others.
+
+### 3. Why should you be careful when interpreting a gene that shows zero or very low expression in single-cell data?
+
+Zero or very low expression in single-cell data does not necessarily mean that the gene is biologically absent from the tissue. The observed result can be influenced by the characteristics and limitations of the dataset and the detection of transcripts.
+
+### 4. Why is it useful to combine information about genomic location, genetic variants, and cell-specific gene expression?
+
+Combining these types of information provides a more complete view of a gene, from its location and structure to its disease-associated variants and expression in specific cell populations. This helps connect genomic information with potential biological roles in tissues and cells.
+
+### 5. What was the most interesting observation you made about your assigned gene?
+
+The most interesting observation was that HFE expression was very low in the selected dataset, with 97.7% of cells showing zero expression. Despite the liver being relevant to HFE and hereditary hemochromatosis, the Cell Browser dataset did not show a clearly defined HFE-expressing cell population.
+
+## 11. References and Links
+
+- **UCSC Cell Browser:** https://cells.ucsc.edu/
+- **Selected Cell Browser Dataset:** Healthy Human Liver Single Nuclear – All Liver Cells
+- **Cell Browser Dataset ID:** liver-sex-age-map
+- **Dataset URL:** https://liver-sex-age-map.cells.ucsc.edu/
+- **NCBI GEO Series:** GSE210077
+- **Publication:** Speir et al. (2021), *Single-cell transcriptomics reveals the impact of sex and age in the healthy human liver*
+- **UCSC Cell Browser Visualization Guide:** https://cellbrowser.readthedocs.io/en/master/ui/visualization.html
