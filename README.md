@@ -261,3 +261,17 @@ HFE does not appear among the displayed top marker genes for the Portal cluster.
 ### Part G Screenshot
 
 ![Portal cluster marker genes](UCSC_Cell_Browser_Screenshots/06_marker_genes.png)
+
+## 8. Disease Gene vs Marker Gene
+
+- **Assigned disease gene:** HFE
+- **Marker gene:** HAL
+
+**c. Which gene shows a more cell-type-restricted expression pattern?**  
+HAL shows a clearer cell-type-associated expression pattern, with stronger expression concentrated mainly in the Portal, Mid Zone, and Central liver cell populations. HFE expression was too low and mostly undetected to establish a clear cell-type-restricted pattern.
+
+**d. Which gene appears more broadly expressed?**  
+HAL appears more broadly expressed than HFE in this dataset, with detectable expression across multiple liver cell populations. HFE expression was largely undetected, with 97.7% of cells showing zero expression.
+
+**e. What does this comparison teach you about the difference between a disease-associated gene and a cell-type marker gene?**  
+A disease-associated gene does not necessarily function as a cell-type marker. In this dataset, HAL shows a clearer cell-type-associated expression pattern, whereas HFE is the disease-associated gene but has very low detectable expression across the measured cells.
