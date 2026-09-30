@@ -214,3 +214,18 @@ HFE expression is very low and mostly undetected across the dataset. The express
 ### Part D Screenshot
 
 ![HFE gene expression map](UCSC_Cell_Browser_Screenshots/03_gene_expression.png)
+
+## 5. Cell Types and Clusters
+
+- **Strongest visible HFE expression:** No clearly strong HFE-expressing cell type or cluster was identified.
+- **Another cell type with detectable expression:** No cell type could be confidently identified as having detectable HFE expression from the cell map.
+- **Relatively low or undetected expression:** HFE expression was mostly undetected across the dataset, with 97.7% of cells showing zero expression.
+- **Expression pattern:** The expression pattern is very low and nearly absent rather than broadly distributed across cell types.
+
+### Biological Interpretation
+
+In this selected healthy human liver dataset, HFE expression appears to be very low across the measured cells. This may reflect low or undetected HFE transcript levels in this particular single-nucleus dataset. Therefore, this observation should be interpreted only within the context of the selected dataset and should not be taken to mean that HFE is absent from liver tissue.
+
+### Part E Screenshot
+
+![HFE expression map with cell-type labels](UCSC_Cell_Browser_Screenshots/03_gene_expression.png)
