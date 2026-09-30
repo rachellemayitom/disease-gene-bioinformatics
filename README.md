@@ -229,3 +229,20 @@ In this selected healthy human liver dataset, HFE expression appears to be very 
 ### Part E Screenshot
 
 ![HFE expression map with cell-type labels](UCSC_Cell_Browser_Screenshots/03_gene_expression.png)
+
+## 6. Expression Plot
+
+**a. Which cells/cluster did you select?**  
+The Portal cell cluster was selected, containing 54,176 cells.
+
+**b. Does your selected group show higher, lower, or similar expression compared with the comparison cells?**  
+The selected Portal cells show a similar low HFE expression pattern compared with the other cells. Most expression values are concentrated near zero.
+
+**c. What does the expression plot add that was not obvious from the UMAP/t-SNE map?**  
+The violin plot shows the distribution of HFE expression values in the selected Portal cells compared with the other cells. This provides a clearer view of the expression distribution than the cell map alone.
+
+**Note:** The Gene Expression Plots window did not provide HFE as an available plotting gene, so the available selection-based violin plot was used instead.
+
+### Part F Screenshot
+
+![HFE expression comparison for Portal cells](UCSC_Cell_Browser_Screenshots/05_violin_plot.png)
