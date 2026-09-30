@@ -171,3 +171,30 @@ The liver was selected because it is highly relevant to the HFE gene and heredit
 ### Part B Screenshot
 
 ![Selected Healthy Human Liver Single Nuclear dataset](UCSC_Cell_Browser_Screenshots/01_dataset.png)
+
+## 3. Understanding the Cell Map
+
+### Part C Answers
+
+**a. What type of visualization is being shown?**  
+A two-dimensional cell map using dimensionality reduction (UMAP/t-SNE-type visualization).
+
+**b. What does one dot represent?**  
+Each dot represents one measured cell or nucleus. In this single-nucleus RNA-seq dataset, the dots represent measured nuclei.
+
+**c. What do the clusters represent in this particular dataset?**  
+The clusters represent different liver cell types or cellular populations identified in the dataset, such as portal, central, mid-zone, endothelial, hepatic stellate, macrophage, immune system, and cholangiocyte populations.
+
+**d. List at least three cell-type or cluster labels visible in the dataset.**  
+- Portal
+- Central
+- Mid Zone
+- Endothelial cells
+- Hepatic stellate cells
+- Macrophages
+- Immune system cells
+- Cholangiocytes
+
+### Part C Screenshot
+
+![All Liver Cells cell map](UCSC_Cell_Browser_Screenshots/02_cell_map.png)
