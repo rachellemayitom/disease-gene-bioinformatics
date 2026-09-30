@@ -170,4 +170,4 @@ The liver was selected because it is highly relevant to the HFE gene and heredit
 
 ### Part B Screenshot
 
-![Selected Healthy Human Liver Single Nuclear dataset](01_dataset.png)
+![Selected Healthy Human Liver Single Nuclear dataset](UCSC_Cell_Browser_Screenshots/01_dataset.png)
